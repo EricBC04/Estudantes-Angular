@@ -1,0 +1,28 @@
+{
+  "estudantes": [
+    {
+      "id": 1,
+      "name": "Eric",
+      "email": "eric@gmail.com",
+      "ra": "572836941",
+      "telefone": "(11)933957555",
+      "turma": "2° A"
+    },
+    {
+      "id": 2,
+      "name": "Ronaldo",
+      "email": "ronaldo@gmail.com",
+      "ra": "987451263",
+      "telefone": "(11) 987654321",
+      "turma": "1° C"
+    },
+    {
+      "id": 3,
+      "name": "Ewerton Silva",
+      "email": "ewerton.silva@gmail.com",
+      "ra": "304875692",
+      "telefone": "(13)998765432",
+      "turma": "3° A"
+    }
+  ]
+}
